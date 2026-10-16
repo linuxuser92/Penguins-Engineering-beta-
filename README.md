@@ -36,7 +36,8 @@ short enough to read end to end.
 ```
 
 ---
-
+# What it is
+Penguins Engineering (PE Linux) is a minimal, dependency-free x86-64 ELF disassembler in C++17. Teaching-grade, ~readable end-to-end, output matches objdump for the opcodes it supports.
 ## Installation
 
 ### Requirements
