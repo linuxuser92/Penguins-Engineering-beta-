@@ -60,7 +60,7 @@ cd PE-Linux
 make
 ```
 
-The compiled binary is `./penguins-eng`. Verify it runs:
+The compiled binary is `./penguins`. Verify it runs:
 
 ```bash
 ./penguins -h
