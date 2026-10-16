@@ -55,7 +55,7 @@ needed after cloning.
 ### Build from source (recommended)
 
 ```bash
-git clone https://github.com/linuxuser92/PE-Linux.git
+git clone https://github.com/linuxuser92/Penguins-Engineering-beta-
 cd PE-Linux
 make
 ```
