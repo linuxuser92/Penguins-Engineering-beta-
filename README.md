@@ -63,7 +63,7 @@ make
 The compiled binary is `./penguins-eng`. Verify it runs:
 
 ```bash
-./penguins-eng --help
+./penguins -h
 ```
 
 ### System-wide install
