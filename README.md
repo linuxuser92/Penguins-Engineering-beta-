@@ -56,7 +56,7 @@ needed after cloning.
 
 ```bash
 git clone https://github.com/linuxuser92/Penguins-Engineering-beta-
-cd PE-Linux
+cd Penguins-Engineering-beta-
 make
 ```
 
